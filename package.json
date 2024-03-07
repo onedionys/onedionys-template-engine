@@ -1,0 +1,37 @@
+{
+  "name": "onedionys-template-engine",
+  "version": "1.0.0",
+  "description": "One Dionys (Template Engine) - A library for easily creating and manipulating HTML templates.",
+  "main": "src/templateEngine.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onedionys/onedionys-template-engine.git"
+  },
+  "keywords": [
+    "onedionys",
+    "tea",
+    "package-manager-template-engine"
+  ],
+  "author": "One Dionys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onedionys/onedionys-template-engine/issues"
+  },
+  "homepage": "https://github.com/onedionys/onedionys-template-engine#readme",
+  "devDependencies": {
+    "chai": "^5.1.0",
+    "mocha": "^10.3.0"
+  },
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "lodash": "^4.17.21",
+    "onedionys-data-storage": "^1.1.0",
+    "onedionys-debounce-throttle-functions": "^1.0.0",
+    "onedionys-dom-manipulation-helpers": "^1.1.0",
+    "onedionys-promise-utilities": "^1.0.0",
+    "onedionys-validation-library": "^1.0.0"
+  }
+}

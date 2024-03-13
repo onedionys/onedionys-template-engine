@@ -1,6 +1,6 @@
 {
   "name": "onedionys-template-engine",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "One Dionys (Template Engine) - A library for easily creating and manipulating HTML templates.",
   "main": "src/templateEngine.js",
   "scripts": {
